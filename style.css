@@ -22,6 +22,9 @@ body {
 header {
     background-image: linear-gradient(to bottom , #64A964 , #234C23 );
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.614);    
+}
+
+header > p.head2 {
     text-align: center;
 }
 
